@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ASMB-TTF0-0A20B
+D Triple LED RGB (Avago Technology)
+K LED RGB
+F https://media.digikey.com/pdf/Data%20Sheets/Avago%20PDFs/ASMB-TTF0-0A20B.pdf
+$ENDCMP
+#
+$CMP ASMT-YTB7-0AA02
+D Triple LED RVB (Avago Technology)
+K LED RGB
+F https://docs.broadcom.com/docs/AV02-3793EN
+$ENDCMP
+#
+#End Doc Library

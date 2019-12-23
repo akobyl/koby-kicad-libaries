@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ASMT-YTB7-0AA02
+D Triple LED RVB (Avago Technology)
+K LED RGB
+F https://docs.broadcom.com/docs/AV02-3793EN
+$ENDCMP
+#
+$CMP ASMT-YTC2-0AA02
+D Triple LED RVB (Avago Technology)
+K LED RGB
+F http://www.avagotech.com/docs/AV02-2589EN
+$ENDCMP
+#
+#End Doc Library
