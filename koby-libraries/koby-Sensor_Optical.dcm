@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BPY62
+D NPN Phototransistor
+K NPN Phototransistor opto
+F http://www.osram-os.com/Graphics/XPic9/00208595_0.pdf
+$ENDCMP
+#
+$CMP PT12-21B_TR8
+D NPN Phototransistor
+K npn phototransistor
+F http://www.everlight.com/file/ProductFile/PT12-21B-TR8.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -3,7 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP LP5009
 D 12-Channel, 16-Bit, Enhanced Spectrum, PWM, RGB, LED Driver With 3.3-V Linear Regulator, HTSSOP-20
 K led driver
-F http://www.ti.com/lit/ds/symlink/tlc5971.pdf
+F http://www.ti.com/lit/ds/symlink/lp5009.pdf
 $ENDCMP
 #
 #End Doc Library
